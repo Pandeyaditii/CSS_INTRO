@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-weight: 700;
+    text-decoration: #000 underline;
+    letter-spacing: 2px;
+    font-size: 58px;
+    font-family: 'Courier New', Courier, monospace, fantasy;
+}
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 3;
+}
